@@ -1,6 +1,8 @@
-# Python Object-Oriented
+# Python Programming Paradigm
 
-## Constructor and Self
+## Object-Orientation
+
+### Constructor and Self
 
 ```python
 class Conta:
@@ -26,9 +28,9 @@ if __name__ == "__main__":
 ```
 
 
-## Aggregation
+### Aggregation
 
-### Example
+#### Example
 
 ```python
 # Salário Class
@@ -58,7 +60,9 @@ print(empregado.salario_total)
 # Expected Output: 120700
 ```
 
-## Class Method x Static Method
+### Class Method x Static Method
+
+#### Example
 
 ```python
 from datetime import date
